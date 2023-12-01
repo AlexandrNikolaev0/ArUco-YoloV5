@@ -1,7 +1,7 @@
 # ArUco-YoloV5
 Здесь представлены Google Colab ноутбуки, которые позволяют обучить нейросеть YoloV5 на распознавание любых изображений. Примеры работы:
-https://www.youtube.com/watch?v=--pSBdoyVjs
 
+https://www.youtube.com/watch?v=--pSBdoyVjs
 https://youtu.be/hxQ5VktzH-I
 
 Для обучения необходимо разметить вручную датасет в формате coco-json (мы делали в remo.ai на 1000 ArUco-маркеров).
