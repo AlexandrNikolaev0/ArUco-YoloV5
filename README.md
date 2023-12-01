@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=--pSBdoyVjs
 
 https://youtu.be/hxQ5VktzH-I
 
+https://docs.google.com/presentation/d/1c7mw0j8zxdTLniRrXLvw4mkWcsyuMYVuR-BHjaa5aYM/edit?usp=sharing
+
 Для обучения необходимо разметить вручную датасет в формате coco-json (мы делали в remo.ai на 1000 ArUco-маркеров).
 
 Первый ipynb файл `aruco_segmentation.ipynb` позволяет обучить нейросеть MaskRCNN на выполнение сегментации маркера с целью автоматической разметки датасета большего размера. (У нас получилось + >4000 маркеров-аннотаций)
